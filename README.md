@@ -7,7 +7,13 @@
 
 - github图片地址获取示例
 
-![app](https://github.com/kmforce888/ops/blob/master/images/app_zy.png?raw=true)
+![noss1](https://github.com/kmforce888/ops/blob/master/images/Repositories%20-%20Nexus%20Repository%20Manager.png?raw=true)
+
+![noss2](https://github.com/kmforce888/ops/blob/master/images/Repositories%20-%20Nexus%20Repository%20Manager2.png?raw=true)
+
+![noss3](https://github.com/kmforce888/ops/blob/master/images/Repositories%20-%20Nexus%20Repository%20Manager3.png?raw=true)
+
+![noss4](https://github.com/kmforce888/ops/blob/master/images/Repositories%20-%20Nexus%20Repository%20Manager4.png?raw=true)
 
 - git-分支
 ![git分支](https://github.com/kmforce888/ops/blob/master/images/Git-%E5%88%86%E6%94%AF.png?raw=true)
